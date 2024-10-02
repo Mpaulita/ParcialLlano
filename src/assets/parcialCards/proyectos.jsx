@@ -31,7 +31,7 @@ const Proyectos = () => {
         <div className="column2">
           <div className="item">
             <img src="https://aprendiendomatematicas.com/wp-content/uploads/2023/06/signos-mas-menos-igual.jpg" alt="Imagen 4" className="image" />
-            <a href="https://github.com/Mpaulita/java2.git">Tarea 4 - Numeros Iguales y Mayores</a>
+            <a href="https://github.com/Mpaulita/java2.git">Tarea 4 - Numeros iguales y mayores</a>
           </div>
         </div>
         <div className="column2">
